@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&color=FF0000&lines=🚀+AEROSPACE+SOFTWARE+ENGINEER;🎮+GAME+FRAMEWORK+ARCHITECT;⚡+FULL-STACK+DEVELOPER;🔥+SYSTEMS+OPTIMIZATION+EXPERT)](https://git.io/typing-svg)
 
-<img src="https://tenor.com/view/gi-hun-in-ho-inho-gihun-inhun-gif-630526413260672446" width="400" alt="Hellfire Banner"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb254aDMwbG1ubWRzeTduanNxZWpmcGozbmlrNWx4Z2locHpjMzkydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GqnKZlaPJcuCR0IR0O/giphy.gif" width="400" alt="Hellfire Banner"/>
 
 ---
 
@@ -31,7 +31,7 @@
 ## 🎯 **WHO THE HELL AM I?**
 
 <div align="center">
-  <img src="https://tenor.com/view/exciting-frog-lidl-rave-apu-gif-17670574881245243802" width="200" alt="Coding Demon"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXoxanRiM2RtMjRlZG9lZHY2Yjlobmx4MnhoNndlcjU1YnpzMjVmMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vi6TA5a01GhLVndS7i/giphy.gif" width="200" alt="Coding Demon"/>
 </div>
 
 ### **Professional Summary**
@@ -103,7 +103,7 @@ const developer = {
 ## 🎮 **WHAT I BUILD**
 
 <div align="center">
-  <img src="https://tenor.com/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682" width="200" alt="Code Fire"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJxcWllOWh6ZjQwOXpvcDRxdHdoZmJkYm9xcjNtZ3Fnc3JuZjBhMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/giphy.gif" width="200" alt="Code Fire"/>
 </div>
 
 ### **🚀 Aerospace & Mission-Critical Systems**
@@ -275,7 +275,7 @@ const developer = {
 
 ---
 
-<img src="https://tenor.com/view/verstappen-max-verstappen-hamilton-hamilton-f1-gif-23055381" width="300" alt="Hellfire Banner"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZpdTJ0OXdtNDk2enRzb3N4bnp0c3k2dXI0YjlmbGVybGJnMG9meSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UzvlLpSulVBn7ZIucS/giphy.gif" width="300" alt="Hellfire Banner"/>
 
 **👹 Devil Developments - Engineering Excellence Since Day One**
 
