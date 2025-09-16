@@ -3,7 +3,7 @@
 # 👹 DEVIL DEVELOPMENTS
 ### *Engineering with Hellfire & Modding the Impossible*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&color=FF0000&lines=🚀+AEROSPACE+SOFTWARE+ENGINEER;🎮+GAME+FRAMEWORK+ARCHITECT;⚡+FULL-STACK+DEVELOPER;🔥+SYSTEMS+OPTIMIZATION+EXPERT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&color=FF0000&lines=🚀+AEROSPACE+SOFTWARE+ENGINEER;🎮+GAME+FRAMEWORK+ARCHITECT;⚡+SYSTEMS+OPTIMIZATION+EXPERT;🔥+SIMPLY+LOVELY)](https://git.io/typing-svg)
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb254aDMwbG1ubWRzeTduanNxZWpmcGozbmlrNWx4Z2locHpjMzkydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GqnKZlaPJcuCR0IR0O/giphy.gif" width="400" alt="Hellfire Banner"/>
 
@@ -36,17 +36,17 @@
 
 ### **Professional Summary**
 
-Hey, I'm **Devil** — a **Software Engineer** at a real-world **Aerospace Company** where I architect systems that orbit the planet. When I'm not building mission-critical software, I'm crafting legendary game frameworks and modding the absolute hell out of games.
+Hey, I'm **Devil** — a **Software Engineer** at a real-world **Aerospace Company** where I architect systems that orbit the planet. When I'm not building mission critical software, I'm crafting legendary game frameworks and modding the absolute hell out of games.
 
 ```javascript
 const developer = {
     name: "Devil",
     role: "Senior Software Engineer & Game Framework Architect",
     company: "Aerospace Industry",
-    experience: "5+ years",
-    passion: "Building legendary game frameworks & mission-critical systems",
+    experience: "12+ years",
+    passion: "Building legendary game frameworks & mission critical systems",
     motto: "If it doesn't run flawlessly, I don't ship it",
-    location: "Earth (for now)",
+    location: "San Diego, CA",
     availability: "Open to collaboration"
 }
 ```
@@ -93,7 +93,7 @@ const developer = {
 |--------------|------------------|-----------------|
 | **🎮 Game Development** | FiveM/RedM, Minecraft APIs, Unity, Custom Engines | ⭐⭐⭐⭐⭐ |
 | **⚡ Backend Systems** | Node.js, Python, PostgreSQL, Docker, WebSockets | ⭐⭐⭐⭐⭐ |
-| **🔧 Systems Programming** | Linux, Assembly, Real-time networking, Anti-cheat | ⭐⭐⭐⭐⭐ |
+| **🔧 Systems Programming** | Linux, Assembly, Real time networking, Anti-cheat | ⭐⭐⭐⭐⭐ |
 | **🌐 Frontend** | React, TypeScript, HTML5, CSS3, WebGL | ⭐⭐⭐⭐ |
 | **☁️ DevOps** | Docker, AWS, CI/CD, Monitoring, Automation | ⭐⭐⭐⭐ |
 | **📊 Data & Analytics** | PostgreSQL, Redis, Data Visualization, APIs | ⭐⭐⭐⭐ |
@@ -107,9 +107,9 @@ const developer = {
 </div>
 
 ### **🚀 Aerospace & Mission-Critical Systems**
-- **Satellite Control Systems** - Real-time orbital mechanics and telemetry
-- **Flight Control Software** - Mission-critical aerospace applications
-- **System Architecture** - High-reliability distributed systems
+- **Satellite Control Systems** - Real time orbital mechanics and telemetry
+- **Flight Control Software** - Mission critical aerospace applications
+- **System Architecture** - High reliability distributed systems
 
 ### **🎯 Game Development Specializations**
 
@@ -138,16 +138,16 @@ const developer = {
 **🔧 Garry's Mod**
 - Custom entities & full gamemodes (DarkRP, TTT)
 - Advanced Lua networking & admin systems
-- Performance optimization & anti-exploit measures
+- Performance optimization & anti exploit measures
 
 **🎯 Roblox & Unity**
 - Economy modules & multiplayer networking
 - C# gameplay scripting & performance tuning
-- Cross-platform compatibility & optimization
+- Cross platform compatibility & optimization
 
 **🧟 DayZ & Custom Engines**
 - Server logic & OpenGL renderers
-- Real-time simulations & physics engines
+- Real time simulations & physics engines
 - Custom networking protocols
 
 </td>
@@ -197,9 +197,9 @@ const developer = {
 
 ### **🎯 Key Accomplishments**
 - ✅ **Aerospace Software Engineer** - Building mission-critical systems
-- ✅ **Game Framework Architect** - 5+ years of full-stack game development
+- ✅ **Game Framework Architect** - 12+ years of full stack game development
 - ✅ **Open Source Contributor** - Multiple high-impact projects
-- ✅ **Performance Optimization Expert** - Specialized in real-time systems
+- ✅ **Performance Optimization Expert** - Specialized in real time systems
 - ✅ **Community Leader** - Mentoring and knowledge sharing
 
 ---
@@ -218,7 +218,7 @@ const developer = {
 
 | **Project** | **Technology** | **Description** | **Impact** |
 |-------------|----------------|-----------------|------------|
-| **Aerospace Control System** | C++, Python, Linux | Mission-critical satellite control | 🚀 Production |
+| **Aerospace Control System** | C++, Python, Linux | Mission critical satellite control | 🚀 Production |
 | **FiveM Framework** | Lua, JavaScript, SQL | Complete roleplay server solution | 🎮 1000+ users |
 | **Minecraft Plugin Suite** | Java, Spigot API | Advanced server management tools | ⛏️ 500+ downloads |
 | **Game Engine Core** | C++, OpenGL, Lua | Custom game engine with modding support | 🔧 Open Source |
@@ -232,9 +232,9 @@ const developer = {
 </div>
 
 ### **🎯 Current Focus**
-- 🚀 **Aerospace Systems** - Mission-critical software architecture
-- 🎮 **Game Frameworks** - Next-generation modding platforms
-- ⚡ **Performance Optimization** - Real-time system tuning
+- 🚀 **Aerospace Systems** - Mission critical software architecture
+- 🎮 **Game Frameworks** - Next generation modding platforms
+- ⚡ **Performance Optimization** - Real time system tuning
 - 🔧 **Open Source** - Contributing to the developer community
 
 ### **🔮 Future Goals**
