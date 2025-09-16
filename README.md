@@ -209,8 +209,6 @@ const developer = {
 <div align="center">
 
 ### **🔗 Pinned Repositories**
-
-
 [![BleedHosting](https://github-readme-stats.vercel.app/api/pin/?username=devilrone&repo=bleedhosting&theme=radical)](https://github.com/devilrone/bleedhosting)
 [![BleedPanel](https://github-readme-stats.vercel.app/api/pin/?username=devilrone&repo=bleedpanel&theme=radical)](https://github.com/devilrone/bleedpanel)
 
