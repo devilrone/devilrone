@@ -23,47 +23,54 @@
   <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="200" alt="Coding Demon"/>
 </div>
 
-<p align="center">
-  <b>Hey, I'm <span style="color:#FF0000">DEVIL</span> — the engineer who builds what others fear to touch.</b><br>
-  <i>Real world Aerospace Software Engineer by day.<br>
-  Game modding, system breaking, code wielding demon by night.</i>
-</p>
+---
 
-<details>
-  <summary><b>🔥 My Manifesto (click to expand)</b></summary>
+## 🎯 About Me
 
-  ```javascript
-  const developer = {
-      name: "Devil",
-      role: "Software Engineer & Game Modder",
-      company: "Aerospace Industry",
-      passion: "Building legendary game frameworks",
-      motto: "If it doesn't run flawlessly, I don't ship it"
-  }
-  ```
-</details>
+Hey, I'm **Devil** — a no bullshit **Software Engineer** at a real world **Aerospace Company**.  
+I architect real systems that orbit the planet... and in my free time, I mod the absolute hell out of games.
+
+```javascript
+const developer = {
+    name: "Devil",
+    role: "Software Engineer & Game Modder",
+    company: "Aerospace Industry",
+    passion: "Building legendary game frameworks",
+    motto: "If it doesn't run flawlessly, I don't ship it"
+}
+```
 
 ---
 
 <h2 align="center">🎮 WHAT I BUILD</h2>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li><b>🤠 RedM (RDR2):</b> Deep RP frameworks, server rewrites, gang/law systems</li>
-        <li><b>🏎️ FiveM (GTA V):</b> Full stack servers, combat, custom NUI, anti-cheat</li>
-        <li><b>⛏️ Minecraft (Java):</b> Plugins, mods, world generators</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><b>🔧 Garry's Mod:</b> Custom entities, gamemodes, Lua networking, admin tools</li>
-        <li><b>🎯 Roblox & Unity:</b> Economy, multiplayer, C# gameplay scripting</li>
-        <li><b>🧟 DayZ & Custom Engines:</b> Server logic, OpenGL, real time sims</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+**🤠 RedM (RDR2)**  
+Deep RP frameworks, complete server rewrites, gang systems, law enforcement tools
+
+**🏎️ FiveM (GTA V)**  
+Full-stack server builds, combat frameworks, custom NUI apps, anti-cheat systems
+
+**⛏️ Minecraft (Java)**  
+Plugins (Spigot, Paper, Bukkit), mods (Forge, Fabric), world generators
+
+</td>
+<td width="50%">
+
+**🔧 Garry's Mod**  
+Custom entities, full gamemodes (DarkRP, TTT), Lua networking, admin systems
+
+**🎯 Roblox & Unity**  
+Economy modules, multiplayer networking, C# gameplay scripting
+
+**🧟 DayZ & Custom Engines**  
+Server logic, OpenGL renderers, real-time simulations
+
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -78,36 +85,34 @@
 
 <h2 align="center">💻 TECH STACK: MY ARSENAL</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+<div align="center">
 
-<details>
-  <summary><b>🧠 Specialties (click to expand)</b></summary>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-  ```yaml
-  Specialties: [
-    Game Development: "FiveM/RedM, Minecraft APIs, Unity, Custom Engines",
-    Backend: "Node.js, Python, PostgreSQL, Docker, WebSockets",
-    Systems: "Linux, Assembly, Real-time networking, Anti-cheat"
-  ]
-  ```
-</details>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+```yaml
+Specialties: [
+  Game Development: "FiveM/RedM, Minecraft APIs, Unity, Custom Engines",
+  Backend: "Node.js, Python, PostgreSQL, Docker, WebSockets",
+  Systems: "Linux, Assembly, Real-time networking, Anti-cheat"
+]
+```
 
 ---
 
@@ -132,15 +137,15 @@
 
 ---
 
-<h2 align="center">📈 CONTRIBUTION GRAPH</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilrone&bg_color=0D1117&color=FF0000&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilrone&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
 
 ---
 
-<h2 align="center">💭 RANDOM DEV QUOTE</h2>
-<p align="center">
+## 💭 Random Dev Quote
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 
@@ -148,20 +153,17 @@
 
 <h2 align="center">🔥 QUICK STATS & METRICS</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devilrone&color=FF0000&style=for-the-badge&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/devilrone?color=FF0000&style=for-the-badge&label=FOLLOWERS"/>
-  <img src="https://img.shields.io/github/stars/devilrone?color=FF0000&style=for-the-badge&label=TOTAL+STARS"/>
-</p>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=devilrone&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/devilrone?color=FF6B6B&style=for-the-badge&label=FOLLOWERS)
+![GitHub Stars](https://img.shields.io/github/stars/devilrone?color=FF6B6B&style=for-the-badge&label=TOTAL+STARS)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="200" alt="Hellfire Divider"/>
-</p>
+<div align="center">
+**⚡ "Code with purpose. Build with passion. Ship with pride." ⚡**
 
-<h2 align="center"><b>⚡ "Code with purpose. Build with passion. Ship with pride." ⚡</b></h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" alt="Demon Coder"/>
-</p>
+</div>
