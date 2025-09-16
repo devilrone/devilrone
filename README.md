@@ -210,10 +210,9 @@ const developer = {
 
 ### **🔗 Pinned Repositories**
 
-<!-- Add pinned repositories here -->
-<!-- Example format:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devilrone&repo=your-repo-name&theme=radical)](https://github.com/devilrone/your-repo-name)
--->
+
+[![BleedHosting](https://github-readme-stats.vercel.app/api/pin/?username=devilrone&repo=bleedhosting&theme=radical)](https://github.com/devilrone/bleedhosting)
+[![BleedPanel](https://github-readme-stats.vercel.app/api/pin/?username=devilrone&repo=bleedpanel&theme=radical)](https://github.com/devilrone/bleedpanel)
 
 </div>
 
